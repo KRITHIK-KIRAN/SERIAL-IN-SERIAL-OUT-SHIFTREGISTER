@@ -45,9 +45,13 @@ endmodule
 ```
 
 **RTL LOGIC FOR SISO Shift Register**
+
+
+
 <img width="387" height="167" alt="image" src="https://github.com/user-attachments/assets/58839d1d-d673-4c14-bf37-1d652d0d92f2" />
 
 **TIMING DIGRAMS FOR SISO Shift Register**
+
 <img width="1627" height="907" alt="image" src="https://github.com/user-attachments/assets/a4a24ad7-831a-49db-bd76-c8d5f55d4f5f" />
 
 **RESULTS**
